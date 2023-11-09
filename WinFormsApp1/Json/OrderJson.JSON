@@ -1,0 +1,30 @@
+[
+  {
+    "EvrakNo": "1",
+    "Tarih": "2023-11-07T00:00:00+03:00",
+    "Toplam": 20.0,
+    "OrderDatas": [
+      {
+        "StokAdi": "Suc ve Ceza",
+        "StokKodu": 9001,
+        "BirimFiyat": 20.0,
+        "Miktar": 6.0,
+        "AraToplam": 120.0
+      }
+    ]
+  },
+  {
+    "EvrakNo": "2",
+    "Tarih": "2023-11-07T00:00:00+03:00",
+    "Toplam": 80.0,
+    "OrderDatas": [
+      {
+        "StokAdi": "Suc ve Ceza",
+        "StokKodu": 9001,
+        "BirimFiyat": 20.0,
+        "Miktar": 1.0,
+        "AraToplam": 20.0
+      }
+    ]
+  }
+]
